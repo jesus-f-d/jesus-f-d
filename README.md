@@ -1,4 +1,4 @@
-# Hola, soy Jesús 👋
+# Hola, soy Jesus 👋
 
 Estudiante de desarrollo de software apasionado por construir cosas útiles. Me muevo entre el frontend web y los lenguajes de programación clásicos.
 
