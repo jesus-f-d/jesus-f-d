@@ -45,23 +45,23 @@ Estudiante de desarrollo de software apasionado por construir cosas útiles. Me 
 ## 🔥 Características Principales
 
 ### Spring Security 🔐
-- ✅ Autenticación con JWT
-- ✅ Endpoints públicos y protegidos
-- ✅ Validación stateless
-- ✅ Manejo de excepciones global
-- ✅ Auditoría JPA automática
+-  Autenticación con JWT
+-  Endpoints públicos y protegidos
+-  Validación stateless
+-  Manejo de excepciones global
+-  Auditoría JPA automática
 
 ### Veterinaria Spring 🐾
-- ✅ CRUD completo de mascotas, dueños y citas
-- ✅ Autenticación y autorización
-- ✅ Validación de datos robusta
-- ✅ Base de datos relacional
+-  CRUD completo de mascotas, dueños y citas
+-  Autenticación y autorización
+-  Validación de datos robusta
+-  Base de datos relacional
 
 ### Finanzas Web 💰
-- ✅ Interfaz responsive
-- ✅ Gestión de ingresos y gastos
-- ✅ Visualización de datos
-- ✅ Almacenamiento local
+-  Interfaz responsive
+-  Gestión de ingresos y gastos
+-  Visualización de datos
+-  Almacenamiento local
 
 ## 📊 Estadísticas
 
