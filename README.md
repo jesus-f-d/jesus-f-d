@@ -69,7 +69,7 @@ Software Engineering student with a passion for building useful and scalable app
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-f-d&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - Deepen knowledge in microservices architecture
 - Master Spring Security completely
@@ -97,4 +97,4 @@ Software Engineering student with a passion for building useful and scalable app
 >
 > — My development philosophy
 
-**Last updated:** April 2024
+**Last updated:** April 2026
